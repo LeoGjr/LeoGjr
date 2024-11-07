@@ -12,10 +12,10 @@
 ##
 
 <div>
-    <a href="https://github.com/LeoGjr"></a>
-    <img height="180em" scr="https://github-readme-stats.vercel.app/api?username=LeoGjr&show_icons=true&theme=tokyonight"
+    <a href="https://github.com/LeoGjr">
+    <img height="180em" scr="https://github-readme-stats.vercel.app/api?username=LeoGjr&show_icons=true&theme=tokyonight"/>
+    <img height="180em" scr="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoGjr&layout=compact"/>
 </div>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeoGjr&layout=compact)
 
 ## Tecnologias que uso no dia a dia (Web Development)
 
