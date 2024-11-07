@@ -2,7 +2,7 @@
 
 - Formado em Design de Jogos Digitais pela PUC-Campinas
 - Trabalho com programação e arte
-- Apaixonado por tecnologia, desenvolvendo jogos, sites e aplicativos
+- Acompanhe minhas redes sociais
 
 [![Portfolio](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/leo_godoy_jr?igsh=NXRkZjI2bWd0MDd6&utm_source=qr)
