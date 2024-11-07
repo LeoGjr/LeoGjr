@@ -1,5 +1,6 @@
 ### Olá! Eu sou o Leonardo ✌️
 
+#
 - Formado em Design de Jogos Digitais pela PUC-Campinas
 - Trabalho com programação e arte
 - Acompanhe minhas redes sociais
@@ -8,7 +9,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/leo_godoy_jr?igsh=NXRkZjI2bWd0MDd6&utm_source=qr)
 [![Instagram](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-de-godoy-junior/)
 [![Instagram](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/leonardogodoy10/)
-
+##
 
 ![Leonardo GitHub stats](https://github-readme-stats.vercel.app/api?username=LeoGjr&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeoGjr&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
