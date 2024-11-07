@@ -13,8 +13,8 @@
 
 <div>
     <a href="https://github.com/LeoGjr">
-    <img height="180em" scr="https://github-readme-stats.vercel.app/api?username=LeoGjr&show_icons=true&theme=tokyonight"/>
-    <img height="180em" scr="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoGjr&layout=compact"/>
+    <img width="48%" scr="https://github-readme-stats.vercel.app/api?username=LeoGjr&show_icons=true&theme=tokyonight"/>
+    <img width="48%" scr="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoGjr&layout=compact"/>
 </div>
 
 ## Tecnologias que uso no dia a dia (Web Development)
