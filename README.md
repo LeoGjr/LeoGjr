@@ -11,7 +11,10 @@
 [![Instagram](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/leonardogodoy10/)
 ##
 
-![Leonardo GitHub stats](https://github-readme-stats.vercel.app/api?username=LeoGjr&show_icons=true&theme=tokyonight)
+<div>
+    <a href="https://github.com/LeoGjr"></a>
+    <img height="180em" scr="https://github-readme-stats.vercel.app/api?username=LeoGjr&show_icons=true&theme=tokyonight"
+</div>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeoGjr&layout=compact)
 
 ## Tecnologias que uso no dia a dia (Web Development)
