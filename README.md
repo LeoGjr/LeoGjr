@@ -113,15 +113,26 @@ Me chamo Leonardo de Godoy Júnior, tenho 22 anos e sou natural de Campinas, Sã
 
 ### ✏ Projetos Recentes - Web
 <!-- BEGIN YOUTUBE-CARDS -->
-![ref_machado (1)](https://github.com/user-attachments/assets/2db9470d-3bdf-4127-b786-d3181a64970c)
-![ref_machado (1)](https://github.com/user-attachments/assets/2db9470d-3bdf-4127-b786-d3181a64970c)
-![ref_machado (1)](https://github.com/user-attachments/assets/2db9470d-3bdf-4127-b786-d3181a64970c)
-![ref_machado (1)](https://github.com/user-attachments/assets/2db9470d-3bdf-4127-b786-d3181a64970c)
-![ref_machado (1)](https://github.com/user-attachments/assets/2db9470d-3bdf-4127-b786-d3181a64970c)
-![ref_machado (1)](https://github.com/user-attachments/assets/2db9470d-3bdf-4127-b786-d3181a64970c)
-<!-- END YOUTUBE-CARDS -->
-
-[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/fknight?sub_confirmation=1)
+<img src="https://github.com/user-attachments/assets/2f89f8e2-b3dd-40b0-bdd2-ebd6c2daab83"><img>
+<img 
+    alt="Maya" 
+    title="Maya"
+    width="278px" 
+    src="https://github.com/user-attachments/assets/94987e4a-5324-4468-8edb-3bf3ffa8f00f"
+/>
+<img 
+    alt="Maya" 
+    title="Maya"
+    width="278px" 
+    src="https://github.com/user-attachments/assets/94987e4a-5324-4468-8edb-3bf3ffa8f00f"
+/>
+<img 
+    alt="Maya" 
+    title="Maya"
+    width="280px" 
+    src="https://github.com/user-attachments/assets/94987e4a-5324-4468-8edb-3bf3ffa8f00f"
+/>
+<br/>
 
 ---
 
