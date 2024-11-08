@@ -1,5 +1,5 @@
 ![logo](https://64.media.tumblr.com/dd589ece3aca56139de4c9e3f54d7476/4629bd3bfc1ff56c-8a/s1280x1920/0204fa4c42f5e3f7b0fb97de5aefa82e5a79dd34.jpg)
-
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 # 🐱‍👤 Leonardo Júnior
 
 **`Desenvolvedor FullStack`**
@@ -134,7 +134,7 @@ Me chamo Leonardo de Godoy Júnior, tenho 22 anos e sou natural de Campinas, Sã
     title="HTML" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+    
 />
 <img 
     align="left" 
