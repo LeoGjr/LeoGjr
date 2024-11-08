@@ -115,14 +115,14 @@ Me chamo Leonardo de Godoy Júnior, tenho 22 anos e sou natural de Campinas, Sã
 <!-- BEGIN YOUTUBE-CARDS -->
 <img src="https://github.com/user-attachments/assets/2f89f8e2-b3dd-40b0-bdd2-ebd6c2daab83"><img>
 <img 
-    alt="Food Site" 
-    title="Food Site"
+    alt="Chef Site" 
+    title="Chef Site"
     width="278px" 
     src="https://github.com/user-attachments/assets/e0f580d4-be4e-4ad9-a3ec-4eb2c3cc6337"
 />
 <img 
-    alt="Maya" 
-    title="Maya"
+    alt="Trip Site" 
+    title="Trip Site"
     width="278px" 
     src="https://github.com/user-attachments/assets/c759f09b-f89b-4ff3-8c99-66bf21f69d54"
 />
