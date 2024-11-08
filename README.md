@@ -222,7 +222,7 @@ Me chamo Leonardo de Godoy Júnior, tenho 22 anos e sou natural de Campinas, Sã
 <!-- END YOUTUBE-CARDS -->
 
 <p align="center">
-    <a href = "mailto:leogodoyjunior@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <h3>Teste<h3>
     <img 
     src="https://github.com/user-attachments/assets/ffb94863-ea8b-4b31-921e-2dca7ef8db6d""
 />
