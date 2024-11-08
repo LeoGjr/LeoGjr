@@ -1,4 +1,4 @@
-![logo](https://i.pinimg.com/originals/1f/3c/e3/1f3ce3f2fb77aeb542d616158e3b40a7.gif)
+![logo](https://i.pinimg.com/736x/3e/89/60/3e896099f8059f6d9622c2dae5e8cd07.jpg)
 ### Olá! Eu sou o Leonardo ✌️
 
 #
