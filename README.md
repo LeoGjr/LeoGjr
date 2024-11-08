@@ -127,8 +127,8 @@ Me chamo Leonardo de Godoy Júnior, tenho 22 anos e sou natural de Campinas, Sã
     src="https://github.com/user-attachments/assets/c759f09b-f89b-4ff3-8c99-66bf21f69d54"
 />
 <img 
-    alt="Maya" 
-    title="Maya"
+    alt="Vegetable Site" 
+    title="Vegetable Site"
     width="280px" 
     src="https://github.com/user-attachments/assets/927c635d-e8d6-44fd-a4ac-53081fb8dafe"
 />
