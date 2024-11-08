@@ -223,9 +223,22 @@ Me chamo Leonardo de Godoy Júnior, tenho 22 anos e sou natural de Campinas, Sã
     style="padding-right: 10px;" 
     src="https://github.com/user-attachments/assets/94987e4a-5324-4468-8edb-3bf3ffa8f00f"
 />
-[![I Spent 40 Hours Coding This!](https://ytcards.demolab.com/?id=e85uJvX5geA&title=I+Spent+40+Hours+Coding+This%21&lang=en&timestamp=1730125816&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=208&border_radius=0&duration=606 "I Spent 40 Hours Coding This!")](https://www.youtube.com/watch?v=e85uJvX5geA)
-[![8 Data Structures Every Programmer Should Know](https://ytcards.demolab.com/?id=gxdQiBkidWk&title=8+Data+Structures+Every+Programmer+Should+Know&lang=en&timestamp=1727193642&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=208&border_radius=0&duration=1029 "8 Data Structures Every Programmer Should Know")](https://www.youtube.com/watch?v=gxdQiBkidWk)
-[![8 Data Structures Every Programmer Should Know](https://ytcards.demolab.com/?id=gxdQiBkidWk&title=8+Data+Structures+Every+Programmer+Should+Know&lang=en&timestamp=1727193642&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=208&border_radius=0&duration=1029 "8 Data Structures Every Programmer Should Know")](https://www.youtube.com/watch?v=gxdQiBkidWk)
+<img 
+    align="left" 
+    alt="Maya" 
+    title="Maya"
+    width="25%" 
+    style="padding-right: 10px;" 
+    src="https://github.com/user-attachments/assets/94987e4a-5324-4468-8edb-3bf3ffa8f00f"
+/>
+<img 
+    align="left" 
+    alt="Maya" 
+    title="Maya"
+    width="25%" 
+    style="padding-right: 10px;" 
+    src="https://github.com/user-attachments/assets/94987e4a-5324-4468-8edb-3bf3ffa8f00f"
+/>
 <!-- END YOUTUBE-CARDS -->
 
 ---
