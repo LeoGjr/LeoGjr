@@ -221,13 +221,6 @@ Me chamo Leonardo de Godoy Júnior, tenho 22 anos e sou natural de Campinas, Sã
 [![8 Data Structures Every Programmer Should Know](https://ytcards.demolab.com/?id=gxdQiBkidWk&title=8+Data+Structures+Every+Programmer+Should+Know&lang=en&timestamp=1727193642&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=208&border_radius=0&duration=1029 "8 Data Structures Every Programmer Should Know")](https://www.youtube.com/watch?v=gxdQiBkidWk)
 <!-- END YOUTUBE-CARDS -->
 
-<p align="center">
-    <h3>Teste<h3>
-    <img 
-    src="https://github.com/user-attachments/assets/ffb94863-ea8b-4b31-921e-2dca7ef8db6d""
-/>
-</p>
-
 ---
 
 ### 📊 Estatísticas
