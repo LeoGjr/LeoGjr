@@ -223,7 +223,7 @@ Me chamo Leonardo de Godoy Júnior, tenho 22 anos e sou natural de Campinas, Sã
 
 <p align="center">
     <a href = "mailto:leogodoyjunior@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <img         src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAO5JREFUSEvt1TFOAkEUxvEf5yAhUQvlKFZacQwqQ0K8gBb0noSSG9gYEysIJLZcwIRAljBkXd3RWWetmHbmff/3vpn3pqPl1WlZXwxwgwdcJSbxhjtMi7gY4B3dRPFwfIGLnwCp2n1McH0I3Cef+w7OMa8DZPEc2zpAFs9jgEBO9T6cD3bXVnAC/KtFS5xV+yDXHbxi9N2oyAX49ArLndw6YIVewyY4el6NL1dQjIpHXCZCXjAOnscA1b2yZRvcHxJI4semaQCsMcAsSbk88WoCC8AzblEMwkYrVsEThvhopPyLCv6ie4zN/aN9SWoHbfguGSkx7KMAAAAASUVORK5CYII="/>
+    ![chat-solid-24](https://github.com/user-attachments/assets/cc3db9ec-507b-4a0b-9d81-7ecb8a60f82b)
 </p>
 
 ---
