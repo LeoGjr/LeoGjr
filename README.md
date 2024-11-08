@@ -1,3 +1,4 @@
+![logo](https://uploads.dailydot.com/2024/10/Lofi-Girl.jpg?q=65&auto=format&w=1200&ar=2:1&fit=crop)
 ### Olá! Eu sou o Leonardo ✌️
 
 #
