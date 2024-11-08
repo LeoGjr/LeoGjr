@@ -224,7 +224,7 @@ Me chamo Leonardo de Godoy Júnior, tenho 22 anos e sou natural de Campinas, Sã
 <!-- END YOUTUBE-CARDS -->
 
 [<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/fknight?sub_confirmation=1)
-<br/>
+
 ---
 
 ### 📊 Estatísticas
@@ -234,7 +234,7 @@ Me chamo Leonardo de Godoy Júnior, tenho 22 anos e sou natural de Campinas, Sã
     align="left" 
     alt="GitHub Stats" 
     height="200" 
-    width="48%"
+    width="45%"
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=LeoGjr&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
@@ -243,7 +243,7 @@ Me chamo Leonardo de Godoy Júnior, tenho 22 anos e sou natural de Campinas, Sã
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      width="48%"
+      width="45%"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoGjr&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 <br />
