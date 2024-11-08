@@ -118,7 +118,6 @@ Me chamo Leonardo de Godoy Júnior, tenho 22 anos e sou natural de Campinas, Sã
     alt="HTML"
     title="HTML" 
     width="30px" 
-    style="padding-right: 10px;" 
     src="https://github.com/user-attachments/assets/2db9470d-3bdf-4127-b786-d3181a64970c)](https://www.youtube.com/watch?v=WBl31Pyr_M8" 
 />
 ![ref_machado (1)](https://github.com/user-attachments/assets/2db9470d-3bdf-4127-b786-d3181a64970c)
