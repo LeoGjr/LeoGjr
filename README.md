@@ -23,7 +23,6 @@ Me chamo Leonardo de Godoy Júnior, tenho 22 anos e sou natural de Campinas, Sã
      align="left" 
      alt="GitHub Stats" 
      height="200px" 
-     style="padding-right: 10px;" 
      width="50%"
      src="https://github-readme-stats.vercel.app/api?username=LeoGjr&show_icons=true&theme=radical" 
   />  
