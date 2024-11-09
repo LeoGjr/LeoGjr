@@ -154,9 +154,6 @@ Me chamo Leonardo de Godoy Júnior, tenho 22 anos e sou natural de Campinas, Sã
     src="https://github.com/user-attachments/assets/927c635d-e8d6-44fd-a4ac-53081fb8dafe"
 />
 
-
-<br/>
-
 ---
 
 ### 🤖 Linguagens e Tecnologias usadas no desenvolvimento de jogos 
